@@ -11,7 +11,7 @@ I love spending time with my family, playing the guitar.
 
 
 ##### Skills:
-* HTMLll5, CSS3, JS, Git, Webpack, React, Reduuuux, ;
+* HTML5, CSS3, JS, Git, Webpack, React, Redux, ;
 
 
 #### Code example:
