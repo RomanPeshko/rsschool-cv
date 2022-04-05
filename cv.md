@@ -31,3 +31,18 @@ function combine(...args) {
   return newObj;
 }
 ```
+#### Work experience:
+- Coding School TeachMeSkills;
+
+#### Education:
+* Computer operator, Minsk State College of Electronics;
+
+##### Courses and self-study:
+* JS, CSS, HTML, Git video courses on [YouTube](https://www.youtube.com/);
+* [JavaScript](https://learn.javascript.ru);
+* [RS school](https://rs.school/).
+
+#### Languages:
+- Russian;
+- Belarussian;
+- English (level - A1-A2).
